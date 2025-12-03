@@ -30,4 +30,4 @@ The model achieves **80–85% accuracy** using Random Forest Classifier.
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/titanic_ml_project.ipynb
+jupyter notebook notebooks/titanic.ipynb
